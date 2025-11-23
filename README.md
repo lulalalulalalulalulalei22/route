@@ -83,13 +83,6 @@ solution = optimizer.optimize_simulated_annealing(
 print(solution)
 ```
 
-### 运行示例
-
-```bash
-cd C:\Users\myf11\route_optimizer_project
-python example.py
-```
-
 ## 项目结构
 
 ```
@@ -168,4 +161,5 @@ route_optimizer_project/
 ## 许可证
 
 MIT License
+
 
